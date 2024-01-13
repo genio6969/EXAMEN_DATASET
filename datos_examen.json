@@ -1,12 +1,12 @@
 [
-    {"alumno":"Cristopher","nota":2,"ranking":100},
-    {"alumno":"Juan","nota":3.5,"ranking":80},
-    {"alumno":"Juan","nota":4,"ranking":65},
-    {"alumno":"Juan","nota":5,"ranking":50},
-    {"alumno":"Juan","nota":6.5,"ranking":40},
-    {"alumno":"Juan","nota":7,"ranking":35},
-    {"alumno":"Juan","nota":8,"ranking":20},
-    {"alumno":"Juan","nota":9,"ranking":10},
-    {"alumno":"Juan","nota":9.9,"ranking":2}
+    {"alumno":"Oscar","nota":10,"ranking":400},
+    {"alumno":"Pedro","nota":3.5,"ranking":350},
+    {"alumno":"Camilo","nota":4,"ranking":250},
+    {"alumno":"Brian","nota":5,"ranking":200},
+    {"alumno":"Hernan","nota":6.5,"ranking":100},
+    {"alumno":"Karla","nota":7,"ranking":300},
+    {"alumno":"Andrea","nota":8,"ranking":150},
+    {"alumno":"Angy","nota":9,"ranking":50},
+    {"alumno":"Renato","nota":9.9,"ranking":250}
 
 ]
