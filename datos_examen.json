@@ -6,7 +6,7 @@
     {"alumno":"Hernan","nota":6.5,"ranking":100},
     {"alumno":"Karla","nota":7,"ranking":300},
     {"alumno":"Andrea","nota":8,"ranking":150},
-    {"alumno":"Angy","nota":9,"ranking":50},
+    {"alumno":"Angy","nota":9,"ranking":0},
     {"alumno":"Renato","nota":9.9,"ranking":250}
 
 ]
